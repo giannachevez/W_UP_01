@@ -64,9 +64,10 @@ The mean for the "skill" players have around 50 push ups. The "line" players ave
 t.test(pushups~position,data=mydata)
 ```
 
-The probability we get the p-value is 0.000009421. I conclude that "skill" players are doing more pushups than the "line" players. 
+The probability of obtaining this p-value is 0.000009421. Since this value is extremely small, I conclude that "skill" players perform significantly more push-ups than "line" players. 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The data shows a significant difference in push-up performance between "skill" and "line" players. On average, "skill" players complete around 50 push-ups, while "line" players average 17, a difference of 33 push-ups. This means "skill" players perform approximately three times more push-ups than "line" players. The extremely small p-value (0.000009421) indicates strong statistical significance, supporting the conclusion that "skill" players have greater endurance and perform significantly more push-ups than "line" players.
