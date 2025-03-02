@@ -48,6 +48,12 @@ It appears that "skill" players have more endurance and thus produce more pushup
 
 ### Numerical Descriptive Results
 
+```{r}
+favstats(pushups~position,data=mydata)
+```
+
+The mean for the "skill" players have around 50 push ups. The "line" players average is around 17. It is a 33 difference in pushups. The "skill" players have done around 3 times more than the "line" players.
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
